@@ -9,9 +9,9 @@ This project demonstrates various data science techniques and tools for data man
 
 ### Key Features
 - Data Manipulation & Analysis: Numpy, Pandas, Dask
-- Data Visualization: Matplotlib, Seaborn, Plotly
+- Data Visualization:PowerBI
 - Machine Learning: Scikit-learn
 - Data Storage & Retrieval: MongoDB
-- Model Deployment: Django
+
 
 
